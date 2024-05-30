@@ -1,0 +1,18 @@
+.bold {
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+#text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    outline: none;
+    width: 50%;
+    height: 50vh;
+}
+.upper{
+    text-transform: uppercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
